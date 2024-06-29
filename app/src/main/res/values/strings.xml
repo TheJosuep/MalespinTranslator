@@ -2,4 +2,8 @@
     <string name="app_name">Traductor Malespín</string>
 
     <string name="text_field_label">Ingresar texto</string>
+
+    <string name="voice_button_description">Voz a texto</string>
+    <string name="chat_button_description">Chatear</string>
+    <string name="history_button_description">Historial</string>
 </resources>
