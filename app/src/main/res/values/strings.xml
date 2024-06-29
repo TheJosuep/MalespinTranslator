@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Traductor Malespín</string>
+
+    <string name="text_field_label">Ingresar texto</string>
+</resources>
